@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-homeworks-redux-task2/static/css/main.608128ff.chunk.css",
+    "main.js": "/ra-homeworks-redux-task2/static/js/main.e9a42eee.chunk.js",
+    "main.js.map": "/ra-homeworks-redux-task2/static/js/main.e9a42eee.chunk.js.map",
+    "runtime-main.js": "/ra-homeworks-redux-task2/static/js/runtime-main.7c42fe51.js",
+    "runtime-main.js.map": "/ra-homeworks-redux-task2/static/js/runtime-main.7c42fe51.js.map",
+    "static/js/2.fab56182.chunk.js": "/ra-homeworks-redux-task2/static/js/2.fab56182.chunk.js",
+    "static/js/2.fab56182.chunk.js.map": "/ra-homeworks-redux-task2/static/js/2.fab56182.chunk.js.map",
+    "index.html": "/ra-homeworks-redux-task2/index.html",
+    "precache-manifest.39aacc52a779ac7972d9e7cb3366b43a.js": "/ra-homeworks-redux-task2/precache-manifest.39aacc52a779ac7972d9e7cb3366b43a.js",
+    "service-worker.js": "/ra-homeworks-redux-task2/service-worker.js",
+    "static/css/main.608128ff.chunk.css.map": "/ra-homeworks-redux-task2/static/css/main.608128ff.chunk.css.map",
+    "static/js/2.fab56182.chunk.js.LICENSE.txt": "/ra-homeworks-redux-task2/static/js/2.fab56182.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c42fe51.js",
+    "static/js/2.fab56182.chunk.js",
+    "static/css/main.608128ff.chunk.css",
+    "static/js/main.e9a42eee.chunk.js"
+  ]
+}
