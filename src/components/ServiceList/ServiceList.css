@@ -1,0 +1,19 @@
+i.button-edit.edit.outline.grey.icon {
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+i.grey.icon.icon.icon.icon:hover {
+  color: rgb(161, 0, 0);
+}
+
+i.button-delete.delete.grey.icon {
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.service-list {
+  line-height: 30px;
+  list-style-type: none;
+  padding-left: 20px;
+}

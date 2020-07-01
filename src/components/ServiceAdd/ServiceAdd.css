@@ -1,0 +1,39 @@
+.input {
+  font-size: 18px;
+  height: 40px;
+  padding: 10px 20px;
+}
+
+.input:nth-child(n+2) {
+  margin-left: 5px;
+}  
+
+.input.short {
+  max-width: 130px;
+}
+
+.button {
+  font-weight: 500;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-left: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.save {
+  background-color: rgb(43, 182, 43);
+}
+
+.save:hover {
+  background-color: rgb(0, 151, 0);
+}
+
+.cancel {
+  background-color: rgb(180, 180, 180);
+}
+
+.cancel:hover {
+  background-color: rgb(151, 151, 151);
+}
